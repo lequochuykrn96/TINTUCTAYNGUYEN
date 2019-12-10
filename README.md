@@ -2,7 +2,7 @@
 ### Cơ Sở Dữ Liệu
 *Xem và chỉnh sữa dữ liệu tiện lợi và nhanh chóng*
 
-<img src="GioiThieu/8.jpg" alt="drawing" width="40%" /> <img src="IMGGioiThieu/data0.jpg" alt="drawing" width="40%" />
+<img src="GioiThieu/8.jpg" alt="drawing" width="40%" /> 
 
 *Liên kết dữ liệu hợp lý và dễ chỉnh sửa khi không may gặp sự cố*
 
