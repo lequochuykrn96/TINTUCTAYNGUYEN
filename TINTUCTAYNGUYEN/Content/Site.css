@@ -36,3 +36,22 @@ input[type="select"] {
         padding: 0;
     }
 }
+
+.tc1 {
+    background: white;
+    width: 100%;
+    height: auto;
+    padding: 2px;
+    border: solid black 1px;
+}
+
+.nd1 {
+    width: 50%;
+    padding: 1%;
+    border: solid black 1px;
+}
+
+    .nd1 h1 {
+        font-size: 50px;
+    }
+
