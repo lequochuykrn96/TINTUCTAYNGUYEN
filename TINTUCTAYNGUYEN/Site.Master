@@ -13,6 +13,7 @@
     </asp:PlaceHolder>
     <webopt:bundlereference runat="server" path="~/Content/css" />
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    
 
 </head>
 <body>
@@ -51,7 +52,7 @@
                     <ul class="nav navbar-nav">
                         <li><a runat="server" href="~/TrangChu">Trang Chủ</a></li>
                         <li><a runat="server" href="~/GiaCafe">Giá Cafe</a></li>
-                        <li><a runat="server" href="~/Contact">Thông Tin</a></li>
+                        <li><a runat="server" href="~/ThongTin">Thông Tin</a></li>
                     </ul>
                     <asp:LoginView runat="server" ViewStateMode="Disabled">
                         <AnonymousTemplate>
